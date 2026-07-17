@@ -49,8 +49,6 @@
 
 </div>
 
-> 📌 *Update the table above with live repo links as you push these public.*
-
 ---
 
 ### 💻 Tech Stack
@@ -109,8 +107,6 @@
 <img src="https://raw.githubusercontent.com/kanishk6030/kanishk6030/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div> -->
-
-> 📌 *This snake animation needs a one-time GitHub Actions workflow to generate — see setup note below.*
 
 ---
 
