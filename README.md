@@ -26,11 +26,11 @@
 
 <div align="center">
 
-<img src="./assets/agent-pipeline.svg" width="100%" alt="Animated agentic RAG pipeline"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCAyNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnR3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzExMWEyZSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0xMDAlIiB5PSItMTAwJSIgd2lkdGg9IjMwMCUiIGhlaWdodD0iMzAwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjYiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iMTAwMCIgaGVpZ2h0PSIyNDAiIHJ4PSIxNCIgZmlsbD0idXJsKCNiZ0dyYWQpIi8+CgogIDx0ZXh0IHg9IjUwMCIgeT0iMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzOEIyQUMiIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgJ0ZpcmEgQ29kZScsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9IjcwMCI+4pqhIEthbmlzaGsgVmF0cyDigJQgRnVsbC1TdGFjayBEZXYg4oaSIEFJL0dlbkFJIEVuZ2luZWVyPC90ZXh0PgogIDx0ZXh0IHg9IjUwMCIgeT0iNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM1YTY1NzciIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgbW9ub3NwYWNlIiBmb250LXNpemU9IjExIj5DIMK3IEMrKyDCtyBKYXZhU2NyaXB0IMK3IFR5cGVTY3JpcHQgwrcgUHl0aG9uPC90ZXh0PgoKICA8IS0tIGNvbm5lY3RpbmcgbGluZSAtLT4KICA8cGF0aCBpZD0iZmxvdyIgZD0iTTExMCwxNDUgTDI5MCwxNDUgTDQ3MCwxNDUgTDY1MCwxNDUgTDgzMCwxNDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIzMzA0NyIgc3Ryb2tlLXdpZHRoPSIzIi8+CgogIDwhLS0gdHJhdmVsaW5nIHF1ZXJ5IHBhcnRpY2xlIC0tPgogIDxjaXJjbGUgcj0iNyIgZmlsbD0iIzM4QjJBQyIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlTW90aW9uIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBwYXRoPSJNMTEwLDE0NSBMMjkwLDE0NSBMNDcwLDE0NSBMNjUwLDE0NSBMODMwLDE0NSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZmlsbCIgdmFsdWVzPSIjMzhCMkFDOyMwMDc3QjU7IzM4QjJBQyIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KCiAgPCEtLSBOb2RlIDE6IFVzZXIgLS0+CiAgPGc+CiAgICA8Y2lyY2xlIGN4PSIxMTAiIGN5PSIxNDUiIHI9IjMwIiBmaWxsPSIjMGQxMTE3IiBzdHJva2U9IiMwMDc3QjUiIHN0cm9rZS13aWR0aD0iMi41Ij4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLW9wYWNpdHkiIHZhbHVlcz0iMC41OzE7MC41IiBkdXI9IjIuMnMiIGJlZ2luPSIwcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPHRleHQgeD0iMTEwIiB5PSIxNTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMjAiPvCfp5E8L3RleHQ+CiAgICA8dGV4dCB4PSIxMTAiIHk9IjE5NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhiOTZhOCIgZm9udC1mYW1pbHk9IkNvbnNvbGFzLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiPlVzZXIgUXVlcnk8L3RleHQ+CiAgPC9nPgoKICA8IS0tIE5vZGUgMjogUm91dGVyIEFnZW50IC0tPgogIDxnPgogICAgPGNpcmNsZSBjeD0iMjkwIiBjeT0iMTQ1IiByPSIzMCIgZmlsbD0iIzBkMTExNyIgc3Ryb2tlPSIjMzhCMkFDIiBzdHJva2Utd2lkdGg9IjIuNSI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS1vcGFjaXR5IiB2YWx1ZXM9IjAuNTsxOzAuNSIgZHVyPSIyLjJzIiBiZWdpbj0iMC42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPHRleHQgeD0iMjkwIiB5PSIxNTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTgiPvCfp608L3RleHQ+CiAgICA8dGV4dCB4PSIyOTAiIHk9IjE5NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhiOTZhOCIgZm9udC1mYW1pbHk9IkNvbnNvbGFzLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiPlJvdXRlciBBZ2VudCDCtyBOb2RlLmpzPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBOb2RlIDM6IFJldHJpZXZlciAtLT4KICA8Zz4KICAgIDxjaXJjbGUgY3g9IjQ3MCIgY3k9IjE0NSIgcj0iMzAiIGZpbGw9IiMwZDExMTciIHN0cm9rZT0iIzM4QjJBQyIgc3Ryb2tlLXdpZHRoPSIyLjUiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgdmFsdWVzPSIwLjU7MTswLjUiIGR1cj0iMi4ycyIgYmVnaW49IjEuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDx0ZXh0IHg9IjQ3MCIgeT0iMTUxIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE4Ij7wn5OaPC90ZXh0PgogICAgPHRleHQgeD0iNDcwIiB5PSIxOTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4Yjk2YTgiIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIj5SZXRyaWV2ZXIgwrcgUHl0aG9uPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBOb2RlIDQ6IExMTSBBZ2VudCAtLT4KICA8Zz4KICAgIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjE0NSIgcj0iMzAiIGZpbGw9IiMwZDExMTciIHN0cm9rZT0iIzAwNzdCNSIgc3Ryb2tlLXdpZHRoPSIyLjUiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgdmFsdWVzPSIwLjU7MTswLjUiIGR1cj0iMi4ycyIgYmVnaW49IjEuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDx0ZXh0IHg9IjY1MCIgeT0iMTUxIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE4Ij7wn6SWPC90ZXh0PgogICAgPHRleHQgeD0iNjUwIiB5PSIxOTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4Yjk2YTgiIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIj5MTE0gQWdlbnQgwrcgRmFzdEFQSTwvdGV4dD4KICA8L2c+CgogIDwhLS0gTm9kZSA1OiBKdWRnZSAvIE91dHB1dCAtLT4KICA8Zz4KICAgIDxjaXJjbGUgY3g9IjgzMCIgY3k9IjE0NSIgcj0iMzAiIGZpbGw9IiMwZDExMTciIHN0cm9rZT0iIzM4QjJBQyIgc3Ryb2tlLXdpZHRoPSIyLjUiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgdmFsdWVzPSIwLjU7MTswLjUiIGR1cj0iMi4ycyIgYmVnaW49IjIuNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDx0ZXh0IHg9IjgzMCIgeT0iMTUxIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE4Ij7inIU8L3RleHQ+CiAgICA8dGV4dCB4PSI4MzAiIHk9IjE5NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhiOTZhOCIgZm9udC1mYW1pbHk9IkNvbnNvbGFzLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiPkp1ZGdlIMK3IExhbmdTbWl0aDwvdGV4dD4KICA8L2c+CgogIDx0ZXh0IHg9IjUwMCIgeT0iMjI1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNGE1NTY4IiBmb250LWZhbWlseT0iQ29uc29sYXMsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSI+Q1VTQVQgJzI3IMK3IEZ1bGwtU3RhY2sgRGV2IEAgSW50ZXJ2aWV3IEVhc3kgwrcgYnVpbGRpbmcgdG93YXJkcyBBSS9HZW5BSSBFbmdpbmVlcmluZzwvdGV4dD4KPC9zdmc+Cg==" width="100%" alt="Animated agentic RAG pipeline"/>
 
 <br/><br/>
 
-<img src="./assets/agent-terminal.svg" width="80%" alt="Animated terminal running an agent build"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDI3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGVybUJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwZDExMTciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTMxYTI0Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSIyNzAiIHJ4PSIxMCIgZmlsbD0idXJsKCN0ZXJtQmcpIiBzdHJva2U9IiMyMzMwNDciIHN0cm9rZS13aWR0aD0iMS41Ii8+CgogIDwhLS0gdGl0bGUgYmFyIC0tPgogIDxyZWN0IHdpZHRoPSI3MDAiIGhlaWdodD0iMzQiIHJ4PSIxMCIgZmlsbD0iIzE2MWIyMiIvPgogIDxyZWN0IHk9IjI0IiB3aWR0aD0iNzAwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMTYxYjIyIi8+CiAgPGNpcmNsZSBjeD0iMjIiIGN5PSIxNyIgcj0iNiIgZmlsbD0iI2ZmNWY1NiIvPgogIDxjaXJjbGUgY3g9IjQyIiBjeT0iMTciIHI9IjYiIGZpbGw9IiNmZmJkMmUiLz4KICA8Y2lyY2xlIGN4PSI2MiIgY3k9IjE3IiByPSI2IiBmaWxsPSIjMjdjOTNmIi8+CiAgPHRleHQgeD0iMzUwIiB5PSIyMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhiOTZhOCIgZm9udC1mYW1pbHk9IkNvbnNvbGFzLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiPmthbmlzaGtAYWdlbnQtbGFiOiB+L3F1ZXJ5UGlsb3Q8L3RleHQ+CgogIDxnIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgJ0ZpcmEgQ29kZScsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMy41Ij4KICAgIDx0ZXh0IHg9IjI0IiB5PSI2MiIgZmlsbD0iIzM4QjJBQyI+CiAgICAgICQgPHRzcGFuIGZpbGw9IiNlNmVkZjMiPndob2FtaTwvdHNwYW4+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDE7MC4wNDswLjk7MC45NjsxIiBkdXI9IjEycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvdGV4dD4KCiAgICA8dGV4dCB4PSIyNCIgeT0iODYiIGZpbGw9IiNlNmVkZjMiPgogICAgICAmZ3Q7IEthbmlzaGsgVmF0cyDigJQgRnVsbC1TdGFjayBEZXZlbG9wZXIgQCBJbnRlcnZpZXcgRWFzeQogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MDsxOzE7MTswIiBrZXlUaW1lcz0iMDswLjA3OzAuMTswLjk7MC45NjsxIiBkdXI9IjEycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvdGV4dD4KCiAgICA8dGV4dCB4PSIyNCIgeT0iMTA4IiBmaWxsPSIjZTZlZGYzIj4KICAgICAgJmd0OyBCLlRlY2ggSVQsIENVU0FUICgyMDI3KSDCtyBleC1Gcm9udGVuZCBJbnRlcm4gQCBOSVQgUGF0bmEKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MTsxOzE7MCIga2V5VGltZXM9IjA7MC4xNDswLjE3OzAuOTswLjk2OzEiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjI0IiB5PSIxMzAiIGZpbGw9IiM3ZWU3ODciPgogICAgICAmZ3Q7IGxhbmd1YWdlczogPHRzcGFuIGZpbGw9IiNlNmVkZjMiPkMsIEMrKywgSmF2YVNjcmlwdCwgVHlwZVNjcmlwdCwgUHl0aG9uPC90c3Bhbj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MTsxOzE7MCIga2V5VGltZXM9IjA7MC4yMTswLjI0OzAuOTswLjk2OzEiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjI0IiB5PSIxNTIiIGZpbGw9IiNmMDg4M2UiPgogICAgICAmZ3Q7IGdvYWw6IDx0c3BhbiBmaWxsPSIjZTZlZGYzIj5BSSAvIEdlbkFJIEVuZ2luZWVyPC90c3Bhbj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MTsxOzE7MCIga2V5VGltZXM9IjA7MC4yODswLjMxOzAuOTswLjk2OzEiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjI0IiB5PSIxODAiIGZpbGw9IiMzOEIyQUMiPgogICAgICAkIDx0c3BhbiBmaWxsPSIjZTZlZGYzIj5weXRob24gcnVuX2FnZW50LnB5IC0tcXVlcnkgIm9wdGltaXplIHJldHJpZXZhbCBsYXRlbmN5IjwvdHNwYW4+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTsxOzAiIGtleVRpbWVzPSIwOzAuMzc7MC40OzAuOTswLjk2OzEiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjI0IiB5PSIyMDIiIGZpbGw9IiM3ZWU3ODciPgogICAgICAmZ3Q7IGh5YnJpZCByZXRyaWV2YWwgKEJNMjUgKyBkZW5zZSkgLi4uIDx0c3BhbiBmaWxsPSIjZTZlZGYzIj5kb25lPC90c3Bhbj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MTsxOzE7MCIga2V5VGltZXM9IjA7MC41OzAuNTM7MC45OzAuOTY7MSIgZHVyPSIxMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3RleHQ+CgogICAgPHRleHQgeD0iMjQiIHk9IjIyNCIgZmlsbD0iIzdlZTc4NyI+CiAgICAgICZndDsgZ3JvdW5kaW5nIGNoZWNrIChMTE0tYXMtanVkZ2UpIC4uLiA8dHNwYW4gZmlsbD0iI2U2ZWRmMyI+cGFzc2VkIOKchTwvdHNwYW4+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTsxOzAiIGtleVRpbWVzPSIwOzAuNjM7MC42NjswLjk7MC45NjsxIiBkdXI9IjEycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvdGV4dD4KCiAgICA8dGV4dCB4PSIyNCIgeT0iMjQ2IiBmaWxsPSIjMzhCMkFDIiBmb250LXdlaWdodD0iNzAwIj4KICAgICAg4pyUIHNoaXBwaW5nIHRoZSBuZXh0IGFnZW50Li4uCiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MTsxOzAiIGtleVRpbWVzPSIwOzAuNzY7MC44OzAuOTswLjk2OzEiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBibGlua2luZyBjdXJzb3IgLS0+CiAgPHJlY3QgeD0iMjQiIHk9IjI1NCIgd2lkdGg9IjkiIGhlaWdodD0iMTQiIGZpbGw9IiMzOEIyQUMiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzE7MDswIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvcmVjdD4KPC9zdmc+Cg==" width="80%" alt="Animated terminal running an agent build"/>
 
 </div>
 
@@ -87,69 +87,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
 ---
-
-<svg viewBox="0 0 700 270" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#131a24"/>
-    </linearGradient>
-  </defs>
- 
-  <rect width="700" height="270" rx="10" fill="url(#termBg)" stroke="#233047" stroke-width="1.5"/>
- 
-  <!-- title bar -->
-  <rect width="700" height="34" rx="10" fill="#161b22"/>
-  <rect y="24" width="700" height="10" fill="#161b22"/>
-  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
-  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
-  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
-  <text x="350" y="22" text-anchor="middle" fill="#8b96a8" font-family="Consolas, monospace" font-size="12">kanishk@agent-lab: ~/queryPilot</text>
- 
-  <g font-family="Consolas, 'Fira Code', monospace" font-size="13.5">
-    <text x="24" y="62" fill="#38B2AC">
-      $ <tspan fill="#e6edf3">whoami</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.01;0.04;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="86" fill="#e6edf3">
-      &gt; Kanishk Vats — Full-Stack Developer @ Interview Easy
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.07;0.1;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="108" fill="#e6edf3">
-      &gt; B.Tech IT, CUSAT (2027) · ex-Frontend Intern @ NIT Patna
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.14;0.17;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="130" fill="#7ee787">
-      &gt; languages: <tspan fill="#e6edf3">C, C++, JavaScript, TypeScript, Python</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.21;0.24;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="152" fill="#f0883e">
-      &gt; goal: <tspan fill="#e6edf3">AI / GenAI Engineer</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.28;0.31;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="180" fill="#38B2AC">
-      $ <tspan fill="#e6edf3">python run_agent.py --query "optimize retrieval latency"</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.37;0.4;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="202" fill="#7ee787">
-      &gt; hybrid retrieval (BM25 + dense) ... <tspan fill="#e6edf3">done</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.5;0.53;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="224" fill="#7ee787">
-      &gt; grounding check (LLM-as-judge) ... <tspan fill="#e6edf3">passed ✅</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.63;0.66;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="246" fill="#38B2AC" font-weight="700">
-      ✔ shipping the next agent...
-      <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.76;0.8;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-  </g>
- 
-  <!-- blinking cursor -->
-  <rect x="24" y="254" width="9" height="14" fill="#38B2AC">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
 
 ### 📊 GitHub Stats
 
