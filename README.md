@@ -103,13 +103,12 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/kanishk6030/kanishk6030/output/github-contribution-grid-snake.svg" width="100%"/>
 
-</div>
+</div> -->
 
 > 📌 *This snake animation needs a one-time GitHub Actions workflow to generate — see setup note below.*
 
