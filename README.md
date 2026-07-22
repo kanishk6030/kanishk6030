@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:38B2AC&height=220&section=header&text=Kanishk%20Vats&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20towards%20AI%2FGenAI%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/kanishk-vats-27291a2b1">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%40+Interview+Easy;Building+RAG+%26+Agentic+AI+Systems;LangChain+%7C+FastAPI+%7C+React+%7C+Node.js;Always+shipping+something+new;&font=Fira+Code&center=true&width=600&height=45&color=38B2AC&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+RAG+%26+Agentic+AI+Systems;LangChain+%7C+FastAPI+%7C+React+%7C+Node.js;Always+shipping+something+new;&font=Fira+Code&center=true&width=600&height=45&color=38B2AC&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 </div>
